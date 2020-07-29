@@ -11,3 +11,5 @@ I'd actually seen this problem before, on [Advent of Code](https://adventofcode.
 - Log the board at this smallest point to see a word, which was HACK.
 
 Fun challenge, wrote most of the code myself, but I think I did have a leg up by knowing the algorithm in advance so writing the code wasn't that bad.
+
+The source code for solving it is in treasure-hunt.ts
